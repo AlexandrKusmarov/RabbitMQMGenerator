@@ -5,6 +5,7 @@
  *  Alphabet (Look at util.Alphabet class).
  *  Max length of generated message.
  *  Delay between sends messages in (ms).
+ 
  You also can change names of EXCHANGE, QUEUE and ROUTING_KEY but in this case you must change
  this names in messageReceiver app too.
  
